@@ -1,7 +1,7 @@
 ---
 title: Kijan mwen kreye blog sila?
 date: 2020-09-21T11:51:59.091Z
-description: " "
+description: " Blog sa a se yon pwojè ke mwen travay sou li ki fèm dekouvri potansyalite VUE.JS anpil. Framework sa jis ekselan. Ann swiv avèm..."
 ---
 
 <div>
