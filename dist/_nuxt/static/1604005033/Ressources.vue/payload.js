@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Ressources.vue", {data:[{}],fetch:[],mutations:void 0});
