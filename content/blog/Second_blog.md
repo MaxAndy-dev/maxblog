@@ -5,7 +5,7 @@ description: " "
 ---
 
 <div>
-    <h1 class ="premye">Kijan mwen kreye blog sila?</h1>
+    <h1 class ="premye">Kijan mwen kreye blòg sila?</h1>
     <p> Blog sa a se yon pwojè ke mwen travay sou li ki fèm dekouvri potansyalite VUE.JS anpil. Framework sa jis ekselan.</br>
     <br> Ann swiv avèm. <br> Mwen sot di ke <code> VUE.JS </code> ekselan men mwen poko pale de <code>Nuxt.js</code>, mwen kreye blog sa avek Nuxt ki se yon teknoloji ki baze sou  Vue.js.</br> <br/> Poukisa mwen te chwazi Nuxt?</br> Etan done ke mwen kreye blog sa pou mwen pataje yon bon kantite atik sou li mwen te bezwen yon sòt de fonksyonalite ki rele <em>'Routing'</em> pou mwen te ka pèmèt ou menm kom itilizatè pou te ka navige nan plizye paj ki nan blog la alèz. Pa egzanp pou li tèks sa a ou sot klike sou <em>/Li plis </em> li voye ou dirèkteman la a, e pou ou ale nan paj akèy la ou pwal klike sou blog pou ou ka wè tout atik yo. Nuxt te pèmèt  mwen jere sa ak yon fasilite enkwayab. Mwen pa di Vue pa jere sa, men Nuxt rann lavi devlope Vue yo pi fasil paske si ou tap fèl avèk vue ou ta pwal genyen bon 2, 3 kod pouw ekri. Men Nuxt li di pa okipew devlopè map jere sa pou ou otomatikaman.</br> </br> 
     <strong> 

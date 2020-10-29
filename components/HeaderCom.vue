@@ -5,12 +5,12 @@
    <img src="https://scontent.fsti4-1.fna.fbcdn.net/v/t1.0-9/81837445_2522595587959546_7832500711165263872_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=I7EzOLkdgP0AX-UupTp&_nc_ht=scontent.fsti4-1.fna&oh=cb3f03d75404491aca133567c8b87f08&oe=5FB0D86F" alt="">
 
     <div class="">
+    <span><em> Etidyan Jeni Endistriyèl/ Apranti Software Developer</em></span>
       <h2>Max Andy Angrand</h2>
-    <span><em> Etudiant en Génie Industriel / Aspirant Software Developer</em></span>
 
     <div class="links">
-        <nuxt-link to="/">Blog</nuxt-link>
-        <nuxt-link to="/Ressources">Ressources</nuxt-link>
+        <nuxt-link to="/">Blòg</nuxt-link>
+        <nuxt-link to="/Ressources">Resous</nuxt-link>
       </div>
       </div>
       

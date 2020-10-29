@@ -6,12 +6,12 @@ description: "Mwen kreye blog sila nan lide pou mwen pataje youn nan pi gwo pasy
 ---
 
 <div>
-<h1 class = "premye">Poukisa mwen kreye Blog sa? </h1>
+<h1 class = "premye">Poukisa mwen kreye Blòg sa? </h1>
 <p>
 Mwen kreye blog sila nan lide pou mwen pataje youn nan pi gwo pasyon ke mwen genyen ki se kode, pwogramasyon... Mwen paka detèmine kilè egzakteman pasyon sa a te anparem, men sèl sa mwen konnen depi mwen tou piti mwen te toujou renmen bagay ki genyen rapò avek teknoloji, mwen te toujou renmen kreye, inove, epi le mwen vin dekouvri pwogramasyon mwen te vin reyalize ke se yon bon mwayen pou mwen mete kreyativitem nan travay epi yon mwayen tou pou mwen travay lojik mwen.
 </br>
 </br>
-p
+
 Blog la pwal fokis esansyèlaman sou mond pwogramasyon an, mwen pwal bay opinyon pam sou kek bagay nan disiplin nan, pataje eksperyans mwen, bagay estipid ak bagay jenyal ke mwen ap fè avek teknoloji ke mwen ap itilize yo. 
 </br>
 </br>
