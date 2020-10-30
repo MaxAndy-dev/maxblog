@@ -6,7 +6,7 @@
       
       <div class="py-8 flex flex-wrap md:flex-no-wrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-          <span class="tracking-widest font-medium title-font bg-indigo-200 text-gray-900">Dat Soti</span>
+          <span class="tracking-widest font-medium title-font block bg-indigo-200 text-gray-900">Dat Soti</span>
           <span class="mt-1 text-gray-500 text-sm">{{ article.createdAt | formatDate }}</span>
         </div>
         <div class="md:flex-grow">
